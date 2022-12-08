@@ -18,4 +18,4 @@ Due to some constraints, a few Acceptance Criteria were not fulfilled for this a
 
 ## Project URLS
 - Deployed Site: https://nguyensang0323.github.io/coding-quiz/
-- GitHub Repository: 
+- GitHub Repository: https://github.com/nguyensang0323/coding-quiz
