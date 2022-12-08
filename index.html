@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./assets/style.css" />
+    <title>Coding Quiz</title>
+  </head>
+  <body>
+    <header>
+      <!-- To see highscores -->
+      <div>
+        <a href="">View Highscores</a>
+      </div>
+      <!-- To see timer -->
+      <div id="timer"></div>
+    </header>
+
+    <div class="intro-holder">
+      <div class="quiz-name">
+        <h1>Coding Quiz</h1>
+      </div>
+      <div>
+        <p>
+          Welcome! This quiz about basic coding knowledge holds 5 questions. You
+          will have 40 seconds to complete the quiz. With each wrong answer, 3
+          seconds will be deducted from your total time. Your score equals the
+          remaining time. Good luck!
+        </p>
+      </div>
+      <div class="start-button">
+        <button id="begin-btn">Begin Quiz</button>
+      </div>
+    </div>
+
+    <div class="question-holder hide">
+      <div>
+        <h1 id="question"></h1>
+      </div>
+
+      <div id="choice-btns">
+        <div id="answer-choices"></div>
+      </div>
+
+      <button type="button" id="back-btn">Back</button>
+      <button type="button" id="next-btn">Next</button>
+
+      <div class="show-result">
+        <p class="result hide"></p>
+      </div>
+    </div>
+
+    <div class="end hide">
+      <h3>Game over!</h3>
+      <p>Your score is <span id="final-score"></span></p>
+      <input type="text" /> <button id="end-btn">Game Over</button>
+    </div>
+    <script src="./assets/script.js"></script>
+  </body>
+</html>
