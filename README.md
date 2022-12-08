@@ -17,3 +17,5 @@ Due to some constraints, a few Acceptance Criteria were not fulfilled for this a
 <img width="1512" alt="Screenshot 2022-12-07 at 10 04 18 PM" src="https://user-images.githubusercontent.com/114970297/206374039-06ec0083-7987-42cb-b40c-90608a861152.png">
 
 ## Project URLS
+- Deployed Site: https://nguyensang0323.github.io/coding-quiz/
+- GitHub Repository: 
