@@ -15,4 +15,5 @@ Due to some constraints, a few Acceptance Criteria were not fulfilled for this a
 ## Snapshot of Deployed Site
 <img width="1512" alt="Screenshot 2022-12-07 at 10 03 56 PM" src="https://user-images.githubusercontent.com/114970297/206374020-64668b05-3f47-489c-a235-450074ec8ac8.png">
 <img width="1512" alt="Screenshot 2022-12-07 at 10 04 18 PM" src="https://user-images.githubusercontent.com/114970297/206374039-06ec0083-7987-42cb-b40c-90608a861152.png">
+
 ## Project URLS
